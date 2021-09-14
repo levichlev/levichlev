@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://github.com/levichlev/levichlev/blob/main/github-metrics.svg)
 
 <!--
 **levichlev/levichlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
