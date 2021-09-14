@@ -21,8 +21,8 @@ jobs:
           plugin_achievements_display: detailed
 
           plugin_languages: yes
-          plugin_languages_ignored: css                                 # List of languages to ignore
-          plugin_languages_skipped: levichlev.                          # List of repositories to skip  
+          plugin_languages_ignored: css, asl                            # List of languages to ignore
+          plugin_languages_skipped: levichlev                           # List of repositories to skip  
           plugin_languages_details: percentage                          # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                                # Hides all languages less than 2%
           plugin_languages_limit: 8                                     # Display up to 8 languages
