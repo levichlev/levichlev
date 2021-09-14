@@ -17,5 +17,34 @@ jobs:
           plugin_achievements: yes               # Display achievements with rank B or higher
           plugin_achievements_secrets: no        # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
+          plugin_achievements_limit: 5           # Display all unlocked achievement matching threshold and secrets params
           plugin_achievements_display: detailed
+
+          plugin_languages: yes
+          plugin_languages_ignored: css                                 # List of languages to ignore
+          plugin_languages_skipped: levichlev.                          # List of repositories to skip  
+          plugin_languages_details: percentage                          # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%                                # Hides all languages less than 2%
+          plugin_languages_limit: 8                                     # Display up to 8 languages
+          plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
+          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
+          plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
+          plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
+          plugin_languages_recent_days: 7                               # Limit recently used stats to last week
+          commits_authoring: levichlev@users.noreply.github.com, ${{ secrets.COMMIT_EMAIL }}         # Surnames or email addresses used to identify your commits
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
+          plugin_wakatime_user: .user.login                         # User
+          
+          plugin_music: yes
+          plugin_music_provider: spotify # Use Spotify as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 4          # Limit to 4 entries
+          plugin_music_played_at: yes    # Show timestamp (for spotify only)
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
