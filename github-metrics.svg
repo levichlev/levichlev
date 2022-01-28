@@ -312,7 +312,7 @@
                                 <div class="infos">
                                     <div class="name" style="width: 387">Sleep Cannon</div>
                                     <div class="artist">Nokae</div>
-                                    <div class="played-at">Played at 17:11:56 on 27 Jan 2022</div>
+                                    <div class="played-at">Played at 10:06:14 on 28 Jan 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -575,7 +575,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2022, 09:08:06  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 10:08:18  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
