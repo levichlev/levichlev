@@ -271,8 +271,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.8882877684003" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="413.8882877684003" y="0" width="46.1117122315997" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.8838523506072" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="413.8838523506072" y="0" width="46.116147649392815" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +284,7 @@
                                 OpenStep Property List
                             </div>
                             <small>
-                                <div>89.98%</div>
+                                <div>89.97%</div>
                             </small>
                         </div>
                     </section>
@@ -297,7 +297,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>10.02%</div>
+                                <div>10.03%</div>
                             </small>
                         </div>
                     </section>
@@ -622,7 +622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2022, 04:10:21  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 05:08:05  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
