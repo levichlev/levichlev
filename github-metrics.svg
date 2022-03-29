@@ -265,14 +265,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 36 edited files from 13 commits over last 4 days</small>
+                <small>estimation from 35 edited files from 13 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.8838523506072" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="413.8838523506072" y="0" width="46.116147649392815" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="407.0661624665323" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="407.0661624665323" y="0" width="52.93383753346767" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +284,7 @@
                                 OpenStep Property List
                             </div>
                             <small>
-                                <div>89.97%</div>
+                                <div>88.49%</div>
                             </small>
                         </div>
                     </section>
@@ -297,7 +297,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>10.03%</div>
+                                <div>11.51%</div>
                             </small>
                         </div>
                     </section>
@@ -571,7 +571,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.14m out of 87m users</span>
+                                    <span class="gh">ranked 5.15m out of 88m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -622,7 +622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2022, 06:10:57  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 07:08:37  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
