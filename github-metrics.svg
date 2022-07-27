@@ -271,9 +271,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.179189719793" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="362.179189719793" y="0" width="67.44422630733536" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="429.62341602712837" y="0" width="30.37658397287168" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.17045961624274" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.17045961624274" y="0" width="67.45024542614904" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="429.62070504239176" y="0" width="30.379294957608206" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -550,7 +550,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.54m out of 94m users</span>
+                                    <span class="gh">ranked 5.55m out of 94m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -601,7 +601,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2022, 00:48:50  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 03:13:41  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
