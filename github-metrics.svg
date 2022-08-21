@@ -271,10 +271,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.45026256795705" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="415.45026256795705" y="0" width="19.994135146293374" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="435.44439771425044" y="0" width="13.437691717051676" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.8820894313022" y="0" width="11.117910568697885" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.5970939792563" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="425.5970939792563" y="0" width="20.637016190235265" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.23411016949154" y="0" width="13.765889830508474" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -286,7 +285,7 @@
                                 SVG
                             </div>
                             <small>
-                                <div>90.32%</div>
+                                <div>92.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -297,7 +296,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.92%</div>
+                                <div>2.99%</div>
                             </small>
                         </div>
                     </section>
@@ -310,18 +309,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.35%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TSX
-                            </div>
-                            <small>
-                                <div>2.42%</div>
+                                <div>4.49%</div>
                             </small>
                         </div>
                     </section>
@@ -613,7 +601,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2022, 07:08:21  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 08:11:22  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
