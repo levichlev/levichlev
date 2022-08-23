@@ -324,7 +324,7 @@
                                 <div class="infos">
                                     <div class="name">Void</div>
                                     <div class="artist">Volumes</div>
-                                    <div class="played-at">Played at 11:55:33 on 23 Aug 2022</div>
+                                    <div class="played-at">Played at 15:07:04 on 23 Aug 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -589,7 +589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 14:08:38  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 15:14:14  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
