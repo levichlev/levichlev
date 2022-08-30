@@ -265,14 +265,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 16.5kb of code in 10 edited files across 6 commits over last 7 days</small>
+                <small>estimation from 4.14kb of code in 7 edited files across 5 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.86746987951807" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="376.86746987951807" y="0" width="83.13253012048193" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.01533219761495" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="373.01533219761495" y="0" width="86.98466780238502" height="8" fill="#ff9900"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +284,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>81.93%</div>
+                                <div>81.09%</div>
                             </small>
                         </div>
                     </section>
@@ -297,7 +297,7 @@
                                 SVG
                             </div>
                             <small>
-                                <div>18.07%</div>
+                                <div>18.91%</div>
                             </small>
                         </div>
                     </section>
@@ -589,7 +589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2022, 08:12:37  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 09:09:14  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
