@@ -294,7 +294,7 @@
                                 <div class="infos">
                                     <div class="name">Ultraviolet</div>
                                     <div class="artist">Silverstein</div>
-                                    <div class="played-at">Played at 13:31:43 on 13 May 2023</div>
+                                    <div class="played-at">Played at 15:06:00 on 13 May 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2023, 14:06:17  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 May 2023, 15:06:58  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
